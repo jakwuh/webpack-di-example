@@ -1,7 +1,7 @@
 {
   "name": "webpack-di-example",
   "version": "0.0.0",
-  "description": "",
+  "description": "How-to for statically generation of Dependency Injection definitions",
   "main": "index.js",
   "scripts": {
     "start": "webpack --display-reasons --display-modules && node ./dist/main",
